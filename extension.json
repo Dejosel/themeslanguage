@@ -1,0 +1,13 @@
+{
+  "code": "dejosel.themeslanguage",
+  "name": "Themes Language",
+  "description": "Enable Language file for Tastyigniter Themes...",
+  "version": "1.0.0",
+  "author": "Dejosel",
+  "icon": {
+    "class": "fa fa-language",
+    "backgroundColor": "#ee4774",
+    "color": "#000"
+  },
+  "homepage": ""
+}

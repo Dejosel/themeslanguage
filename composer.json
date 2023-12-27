@@ -1,0 +1,22 @@
+{
+  "name": "dejosel/themeslanguage",
+  "type": "tastyigniter-extension",
+  "description": "No description provided yet...",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dejosel",
+    }
+  ],
+  "extra": {
+    "tastyigniter-extension": {
+      "code": "dejosel.themeslanguage",
+      "name": "ThemesLanguage",
+      "icon": {
+        "class": "fa fa-plug",
+        "backgroundColor": "#000000",
+        "color": "#FFF"
+      }
+    }
+  }
+}
