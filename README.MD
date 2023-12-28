@@ -11,7 +11,7 @@ To install this extension manually, follow these steps:
    `/extensions/dejosel/themeslanguage`
 
 ## Usage
-Once installed, the extension automatically enables translation capabilities for all TastyIgniter themes. Users can now add translations for different languages to their themes.
+Once installed, the extension automatically enables translation from the admin panel capabilities for all TastyIgniter themes. Users can now add translations for different languages to their themes.
 
 ## Compatibility
 This extension is compatible with +3.x versions of TastyIgniter.
