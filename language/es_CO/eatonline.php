@@ -11,6 +11,9 @@ return [
 
         'open_for_delivery' => 'Abierto para Domicilios',
         'open_for_collection' => 'Abierto para Pick-up',
-        'open_for_delivery_collection' => 'Abierto para Domicilios y Pick-up',        
+        'open_for_delivery_collection' => 'Abierto para Domicilios y Pick-up',
+        
+        'discount' => '-10%',
+        'minimun' => 'Mín.',
     ],
 ];
