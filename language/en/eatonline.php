@@ -14,5 +14,6 @@ return [
         'open_for_delivery_collection' => 'Open for Delivery & Pick-up',
         
         'discount' => '-10%',
+        'minimun' => 'Min.',
     ],
 ];
