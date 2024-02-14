@@ -20,4 +20,9 @@ return [
         'text_logged_in' => 'Already have an account? <a class="btn btn-primary" href="%s">Login Here</a>',
         'text_logged_out' => 'Welcome back <b>%s</b>, Not You? <a class="btn btn-primary" href="javascript:;" data-request="%s">Logout</a>',
     ],
+    'reviews' => [
+        'quality' => 'Quality',
+        'delivery' => 'Delivery',
+        'service' => 'Service',
+    ],
 ];
