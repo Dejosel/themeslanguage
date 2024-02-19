@@ -2,7 +2,9 @@
 
 
 return [
-
+    'general' => [
+        'newsletter_title' => 'Don’t miss our coupons & updates...',
+    ],
     'menus' => [
         'preorder_no_posible' => 'Pre-order not possible',
         'preorder_also_possible_for_pickup' => 'Pre-order also possible for Pick-up',
