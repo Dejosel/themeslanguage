@@ -21,4 +21,9 @@ return [
         'text_logged_out' => 'Bienvenido de nuevo <b>%s</b>, ¿No eres tú? <a class="btn btn-primary" href="javascript:;" data-request="%s">Cerrar sesión</a>',
 
     ],
+    'reviews' => [
+        'quality' => 'Calidad',
+        'delivery' => 'Domicilio',
+        'service' => 'Servicio',
+    ],
 ];
