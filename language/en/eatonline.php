@@ -27,4 +27,8 @@ return [
         'delivery' => 'Delivery',
         'service' => 'Service',
     ],
+    'hero-image' => [
+        'label_heroimage' => 'Hero Image',
+        'comment_heroimage' => 'Upload custom hero image to your menu page',
+    ]
 ];
