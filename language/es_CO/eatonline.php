@@ -26,4 +26,8 @@ return [
         'delivery' => 'Domicilio',
         'service' => 'Servicio',
     ],
+    'hero-image' => [
+        'label_heroimage' => 'Imagen Hero',
+        'comment_heroimage' => 'Sube una imagen para esta ubicacion y que se muestre en la pagina de menu.',
+    ]
 ];
